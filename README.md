@@ -8,7 +8,7 @@ The currency displayed is in Malaysian Ringgit (MYR)
 ## Citing this work
 If you use this as a reference for your project, please cite this as (APA-Style): 
    
-_Ismail, M. H. (2021). Simple code to Display Crypto Currency to 1602 i2c LCD on NodeMCU. Coding Malaya. 
+_Ismail, M. H. (2021). Simple code to Display Crypto Currency on NodeMCU with 1602 i2c LCD. Coding Malaya. 
 Retrieved December 16, 2021, from https://github.com/mypapit/nodemcu-crypto_
 
   
