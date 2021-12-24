@@ -29,6 +29,11 @@ This project uses internal LED to indicate the WiFi status. You are free to use 
 All configurable parameters are listed on the top section of the code.
       
 ===  NOTE: DO NOT FORGET TO CHANGE WiFI SSID and PASSWORD CONFIGURATION ====
+
+## i2c LCD and NodeMCU setup
+1. Connect i2c LCD SCL pin with NodeMCU D1 pin
+2. Connect i2c SDA pin with NodeMCU D2 pin
+3. Connect i2c GND, VCC pins with NodeMCU GND, Vin accordingly
       
       
 ## TERMS
